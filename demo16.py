@@ -27,3 +27,4 @@ for i in range(0, 4):
         plt.xlabel(iris['feature_names'][i])
         plt.ylabel(iris['feature_names'][j])
         plt.show()
+
